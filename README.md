@@ -1,5 +1,14 @@
 parfind
 =======
+
+[![GitHub release](http://img.shields.io/github/release/rakutentech/parfind.svg?style=flat-square)][release]
+[![Travis](https://img.shields.io/travis/rakutentech/parfind.svg?style=flat-square)][travis]
+[![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)][godocs]
+
+[release]: https://github.com/rakutentech/parfind/releases
+[travis]: https://travis-ci.org/rakutentech/parfind
+[godocs]: http://godoc.org/github.com/rakutentech/parfind
+
 A parallel, simplified version of `find(1)` for use on high-latency,
 highly-parallel file systems.
 
@@ -26,7 +35,6 @@ Build
 -----
 Just run `go build` in the project directory.
 
-[![Build Status](https://travis-ci.org/rakutentech/parfind.svg?branch=master)](https://travis-ci.org/rakutentech/parfind)
 
 Sources
 -------
