@@ -26,6 +26,8 @@ Build
 -----
 Just run `go build` in the project directory.
 
+[![Build Status](https://travis-ci.org/rakutentech/parfind.svg?branch=master)](https://travis-ci.org/rakutentech/parfind)
+
 Sources
 -------
 Sources available on [GitHub](https://github.com/rakutentech/parfind).
